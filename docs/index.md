@@ -24,3 +24,10 @@ faq-bot/ │ ├── app.py ├── faq.json ├── unknown_questions.txt
 - Auto-learning unknown questions  
 - Professional dark UI  
 - Flask backend
+
+## 📂 Documentation Links
+
+- [Installation Instructions](installation.md)
+- [How to Use the Chatbot](usage.md)
+- [Advanced Features](advanced_features.md)
+
