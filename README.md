@@ -45,6 +45,8 @@ faq-bot/
 └── README.md
 
 
+
+
 ⚙️ Installation / Requirements
 
 Install Python (≥ 3.10 recommended)
@@ -59,9 +61,15 @@ Navigate to the project folder:
 cd faq-bot
 
 
+
+
+
 Install dependencies:
 
 pip install -r requirements.txt
+
+
+
 
 🏃 How to Run
 python app.py
@@ -69,6 +77,9 @@ python app.py
 
 Then open http://127.0.0.1:5000
  in your browser.
+
+
+ 
 
 💬 Usage / Example Questions
 
@@ -80,6 +91,10 @@ What is your return policy?
 
 How do I change my account password?
 
+
+
+
+
 🧩 Advanced Features
 
 Multilingual support using Deep Translator API
@@ -87,6 +102,8 @@ Multilingual support using Deep Translator API
 Voice input & output integration
 
 Auto-learning unknown questions saved for future updates
+
+
 
 
 📖 Detailed Documentation
