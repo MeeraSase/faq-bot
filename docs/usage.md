@@ -17,6 +17,8 @@ python app.py
 
 This guide explains how to use the AI Multilingual FAQ Chatbot, including example questions, multilingual support, and voice input.
 
+
+
 1. Example Questions
 
 Try asking the bot questions similar to those in your faq.json. Here are some examples:
@@ -44,6 +46,9 @@ The bot translates the answer back to the user’s language before replying.
 
 This ensures accurate answers without the user needing to type in English only.
 
+
+
+
 4. How Voice Input Works
 
 The user can speak their question using the voice input button.
@@ -55,6 +60,9 @@ The bot processes the text just like a typed question.
 Response is displayed on the chat interface in the selected language.
 
 Voice input allows hands-free interaction and a more natural user experience.
+
+
+
 
 5. Auto-learning Unknown Questions
 
